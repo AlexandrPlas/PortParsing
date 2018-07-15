@@ -1,0 +1,77 @@
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\bin\Debug\Sc.exe
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\bin\Debug\Sc.pdb
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\Sc.exe
+c:\users\user\documents\visual studio 2010\Projects\Sc\Sc\obj\x86\Debug\Sc.pdb
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\Sc.exe
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\Sc.pdb
+C:\Users\user\Desktop\Sc\Sc\bin\Debug\Sc.exe
+C:\Users\user\Desktop\Sc\Sc\bin\Debug\Sc.pdb
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\Sc.Scanner.resources
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Sc\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.exe
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.pdb
+F:\РОТА\Диплом\1\сканер\Sc\Sc\bin\Debug\Sc.exe
+F:\РОТА\Диплом\1\сканер\Sc\Sc\bin\Debug\Sc.pdb
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.Scanner.resources
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\РОТА\Диплом\1\сканер\Sc\Sc\bin\Debug\Sc.exe
+G:\РОТА\Диплом\1\сканер\Sc\Sc\bin\Debug\Sc.pdb
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.Scanner.resources
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.exe
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.pdb
+H:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.exe
+H:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\Sc.pdb
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\РОТА\Диплом\1\сканер\Sc\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\Sc.exe
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\Sc.pdb
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\bin\Debug\Sc.exe
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\bin\Debug\Sc.pdb
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\Sc.Scanner.resources
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user16\Desktop\Плешкевич\C#\Sc\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\Sc.exe
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\Sc.pdb
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\bin\Debug\Sc.exe
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\bin\Debug\Sc.pdb
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\bin\Debug\PortStatus.dll
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\bin\Debug\PortStatus.pdb
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\Sc.Scanner.resources
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user16\Desktop\Плешкевич\C#\PortParsing\Sc\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PortParsing\Sc\obj\x86\Debug\Sc.exe
+F:\PortParsing\Sc\obj\x86\Debug\Sc.pdb
+F:\PortParsing\Sc\bin\Debug\Sc.exe
+F:\PortParsing\Sc\bin\Debug\Sc.pdb
+F:\PortParsing\Sc\bin\Debug\PortStatus.dll
+F:\PortParsing\Sc\bin\Debug\PortStatus.pdb
+F:\PortParsing\Sc\obj\x86\Debug\Sc.csprojResolveAssemblyReference.cache
+F:\PortParsing\Sc\obj\x86\Debug\Sc.Scanner.resources
+F:\PortParsing\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+F:\PortParsing\Sc\obj\x86\Debug\Sc.csproj.GenerateResource.Cache
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.exe
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.pdb
+E:\Плешкевич\Code\C#\PortParsing\Sc\bin\Debug\Sc.exe
+E:\Плешкевич\Code\C#\PortParsing\Sc\bin\Debug\Sc.pdb
+E:\Плешкевич\Code\C#\PortParsing\Sc\bin\Debug\PortStatus.dll
+E:\Плешкевич\Code\C#\PortParsing\Sc\bin\Debug\PortStatus.pdb
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.csprojResolveAssemblyReference.cache
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.Scanner.resources
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.Properties.Resources.resources
+E:\Плешкевич\Code\C#\PortParsing\Sc\obj\x86\Debug\Sc.csproj.GenerateResource.Cache
